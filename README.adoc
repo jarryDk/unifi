@@ -1,11 +1,24 @@
 = Unifi
 
+Access ther server
+
+- http://localhost:8080/setup
+- https://localhost:8443/manage
+
 == MongoDB
 
 .Create link to mongod
 [source,bash]
 ----
 ln -s /opt/mongodb/mongodb-linux-x86_64-rhel90-7.0.0/bin/mongod /opt/unifi/UniFi.unix/UniFi/bin/mongod
+----
+
+== Start the server
+
+[source,bash]
+----
+cd /opt/unifi/UniFi.unix/UniFi
+java -jar lib/ace.jar start
 ----
 
 == Download
