@@ -15,6 +15,10 @@ ln -s /opt/mongodb/mongodb-linux-x86_64-rhel90-7.0.0/bin/mongod /opt/unifi/UniFi
 
 == Links
 
+- https://help.ui.com/hc/en-us/articles/4416276882327-How-to-Set-Up-UniFi[How to Set Up UniFi]
+- https://help.ui.com/hc/en-us/articles/360012622613[UniFi - Device Adoption]
+- https://help.ui.com/hc/en-us/articles/205143490[UniFi - How to Reset Devices to Factory Defaults]
+- https://help.ui.com/hc/en-us/articles/360012282453[Self-Hosting a UniFi Network Server]
 - https://help.ui.com/hc/en-us/sections/7895096582039-UniFi-Consoles[UniFi Consoles]
 - https://help.ui.com/hc/en-us/articles/360012282453-Self-Hosting-a-UniFi-Network-Server[Self-Hosting a UniFi Network Server]
 - https://help.ui.com/hc/en-us/articles/220066768[Updating Self-Hosted UniFi Network Servers (Linux)]
